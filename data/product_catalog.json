@@ -1,0 +1,9 @@
+{
+  "products": [
+    {"sku": "SKU-100", "name": "Wireless Mouse", "price": 799.0},
+    {"sku": "SKU-200", "name": "Keyboard", "price": 1299.0},
+    {"sku": "SKU-300", "name": "USB-C Cable", "price": 399.0}
+  ],
+  "default_tax_rate": 0.18,
+  "discount_codes": {"SAVE10": 0.10, "SAVE20": 0.20}
+}
